@@ -8,9 +8,7 @@ I’ve contributed to diverse projects across multiple companies from Latin Amer
 ---
 
 ## 🧰 Tech Stack
-
 ### 👨‍💻 Languages & Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
