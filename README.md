@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Alex Santos
 
 I'm a **Software Developer** from **La Paz, Bolivia** with over **9 years of experience**, specializing in **frontend development** using **React**, **Next.js**, **TypeScript**, **Redux**, **TankStack Query**. I’m passionate about building high-performance, scalable, and really cool web and mobile applications.
